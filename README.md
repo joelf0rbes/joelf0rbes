@@ -1,4 +1,14 @@
 ## Hi there 👋
+I'm Joel, an aspiring systems engineer based in the UK.
+
+I mostly work on backend design and development (Python, SQL and C++) however, I am constantly learning new things.
+
+This is where I will be uploading some of my university assignments and personal projects as I learn new tools and technologies.
+
+## Tools & Technologies
+- Python, C++, SQL
+- FastAPI, JWT
+- Google Cloud (Storage, SQL and Vertex AI)
 
 <!--
 **joelf0rbes/joelf0rbes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
