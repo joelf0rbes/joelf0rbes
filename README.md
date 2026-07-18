@@ -1,14 +1,17 @@
 ## Hi there 👋
-I'm Joel, an aspiring systems engineer based in the UK.
+I'm Joel, an Information Analyst and MSc Applied Computer Science Student based in the UK. I'm passionate about building software, solving problems and continuously learning new technologies.
 
-I mostly work on backend design and development (Python, SQL and C++) however, I am constantly learning new things.
+My primary interests are Software Engineering, Cloud Computing and Data Engineering. I enjoy designing and developing backend applications and working with data, with experience in Python, SQL, C++, and REST APIs. I'm currently expanding my skillset into full-stack development, JavaScript, cloud technologies, and modern software engineering practices.
 
-This is where I will be uploading some of my university assignments and personal projects as I learn new tools and technologies.
+This is where I will share my journey into tech, showcasing some of my university coursework, personal projects, and experiments with new tools and frameworks.
 
-## Tools & Technologies
-- Python, C++, SQL
-- FastAPI, JWT
-- Google Cloud (Storage, SQL and Vertex AI)
+### 🛠️ Tools & Technologies
+- Languages: Python, C++, SQL, JavaScript
+- Backend: FastAPI, REST APIs, JWT Authentication
+- Cloud: Google Cloud (Cloud Storage, Cloud SQL, Vertex AI)
+- Databases: MySQL, MongoDB
+- Data & Analytics: Pandas, NumPy, Power BI
+- Tools: Git, GitHub, VS Code, Docker
 
 <!--
 **joelf0rbes/joelf0rbes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
